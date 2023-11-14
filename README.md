@@ -8,7 +8,7 @@
 
 ### 📖 Experience
 - 새싹 iOS 앱개발자 데뷔 과정 3기 (2023.07 ~)
-- 앨런 Swift 문법 마스터 스쿨 21기 (2023.04 ~2023.05)
+- 앨런 Swift 문법 마스터 스쿨 21기 (2023.05 ~2023.06)
 - Sogang Univ. Mathematics & Computer Science (2018.03 ~)
 
 <br>
