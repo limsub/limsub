@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 ### 🛠️ Tech Stack
-<img src=""https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg?style=for-the-badge&logo=C++&logoColor=white">
 
 
 
