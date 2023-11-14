@@ -1,9 +1,11 @@
 ### Hi there 👋
 
 ### 🛠️ Tech Stack
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white">
+<img src=""https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg?style=for-the-badge&logo=C++&logoColor=white">
 
-<!--
+
+
+
 **limsub/limsub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
